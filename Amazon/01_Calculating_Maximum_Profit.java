@@ -1,3 +1,5 @@
+package Amazon;
+
 class Solution {
     public int maxProfit(int k, int[] prices) {
         if (k == 0 || prices.length == 0)
